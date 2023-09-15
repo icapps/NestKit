@@ -12,7 +12,7 @@
     "tsconfig": "*",
     "turbo": "latest"
   },
-  "name": "NestKit",
+  "name": "nestkit",
   "packageManager": "npm@9.5.1",
   "workspaces": [
     "apps/*",
