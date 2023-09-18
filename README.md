@@ -10,6 +10,12 @@
     A collection of ready-to-use modules and utilities to build NestJS applications faster 🚀
 </p>
 
+## Contents
+
+| Package                                                                          | Description                            |
+| -------------------------------------------------------------------------------- | -------------------------------------- |
+| [`@nestkit/common`](https://github.com/icapps/NestKit/tree/main/packages/common) | Common utilities, enums, constants,... |
+
 ## Usage
 
 ### Build
@@ -18,6 +24,14 @@ To build all packages, run the following command:
 
 ```bash
 npm run build
+```
+
+### Develop
+
+To build all packages and run the example in development mode, run the following command:
+
+```bash
+npm run dev
 ```
 
 ### Publish
