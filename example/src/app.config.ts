@@ -1,5 +1,5 @@
 import { registerAs } from '@nestjs/config';
-import { Environment, validateConfig } from '@nestkit/common';
+import { Environment, validateConfig } from '@icapps/nestkit-common';
 import { Expose } from 'class-transformer';
 import { IsEnum, IsPort } from 'class-validator';
 

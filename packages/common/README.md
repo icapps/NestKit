@@ -1,4 +1,4 @@
-# `@nestkit/common`
+# `@icapps/nestkit-common`
 
 This package contains common utilities, enums, constants,...
 

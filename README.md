@@ -12,9 +12,9 @@
 
 ## Contents
 
-| Package                                                                          | Description                            |
-| -------------------------------------------------------------------------------- | -------------------------------------- |
-| [`@nestkit/common`](https://github.com/icapps/NestKit/tree/main/packages/common) | Common utilities, enums, constants,... |
+| Package                                                                                 | Description                            |
+| --------------------------------------------------------------------------------------- | -------------------------------------- |
+| [`@icapps/nestkit-common`](https://github.com/icapps/NestKit/tree/main/packages/common) | Common utilities, enums, constants,... |
 
 ## Usage
 
@@ -55,4 +55,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[ISC](LICENSE.md)
+[ISC](LICENSE)
