@@ -8,7 +8,7 @@ module.exports = {
   extends: [
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
-    "turbo"
+    'turbo',
   ],
   root: true,
   env: {
@@ -23,4 +23,3 @@ module.exports = {
     '@typescript-eslint/no-explicit-any': 'off',
   },
 };
-
