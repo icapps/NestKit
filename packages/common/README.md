@@ -56,4 +56,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[ISC](LICENSE)
+[ISC](../../LICENSE)
