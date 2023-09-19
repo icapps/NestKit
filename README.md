@@ -15,6 +15,7 @@
 | Package                                                                                 | Description                            |
 | --------------------------------------------------------------------------------------- | -------------------------------------- |
 | [`@icapps/nestkit-common`](https://github.com/icapps/NestKit/tree/main/packages/common) | Common utilities, enums, constants,... |
+| [`@icapps/nestkit-prisma`](https://github.com/icapps/NestKit/tree/main/packages/prisma) | [Prisma](https://www.prisma.io)        |
 
 ## Usage
 
