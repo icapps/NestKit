@@ -8,7 +8,7 @@
   "scripts": {
     "build": "tsup ./src/index.ts --format cjs,esm --dts",
     "dev": "npm run build -- --watch",
-    "lint": "eslint . --fix"
+    "lint": "eslint \"src/**/*.ts\" --fix"
   },
   "dependencies": {
     "class-transformer": "^0.5.1",
