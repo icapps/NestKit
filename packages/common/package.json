@@ -1,13 +1,18 @@
 {
   "name": "@icapps/nestkit-common",
   "version": "0.0.0",
+  "description": "Common utilities, enums, constants,...",
+  "keywords": [
+    "nestjs"
+  ],
+  "homepage": "https://github.com/icapps/NestKit#readme",
+  "bugs": "https://github.com/icapps/NestKit/issues",
+  "license": "ISC",
+  "author": "icapps <info@icapps.com> (https://icapps.com)",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "license": "ISC",
-  "publishConfig": {
-    "access": "public"
-  },
+  "repository": "github:icapps/NestKit",
   "scripts": {
     "build": "tsup ./src/index.ts --format cjs,esm --dts",
     "dev": "npm run build -- --watch",
@@ -23,5 +28,8 @@
     "tsconfig": "*",
     "tsup": "^7.2.0",
     "typescript": "^4.5.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
