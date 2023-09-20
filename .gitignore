@@ -31,4 +31,4 @@ yarn-error.log*
 .vercel
 
 # build output
-dist/
+dist
